@@ -13,4 +13,4 @@ Pytorch implementation of the KDD2020 paper "Zero-Shot Expert Linking via Advers
 3. Running the main function.
 
 
-Note: We will careful reorganize the github page after kdd-reviewing.
+Note: We will carefully reorganize the github page after kdd-reviewing.
