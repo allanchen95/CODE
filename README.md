@@ -1,5 +1,7 @@
-# KDD2020-Expert-Linking
-Pytorch implementation of the KDD2020 paper "Zero-Shot Expert Linking via Adversarial Contrastive Learning"
+# Expert-Linking
+Pytorch implementation of the paper "COAD: Contrastive Pre-training with Adversarial Fine-tuning for Zero-shot Expert Linking."
+
+This is a simple online demo: https://newsminer.net/ExpertLinking/
 
 ## Requirements
 - Ubuntu 16.04
@@ -16,4 +18,5 @@ Pytorch implementation of the KDD2020 paper "Zero-Shot Expert Linking via Advers
 3. Running the main function.
 
 
-Note: We will carefully reorganize the github page after kdd-reviewing and publish the dataset.
+Note: We will carefully reorganize the github page after paper-reviewing.
+
