@@ -3,7 +3,7 @@ Pytorch implementation of the paper "COAD: Contrastive Pre-training with Adversa
 
 This is a simple online demo: https://newsminer.net/ExpertLinking/
 
-[Chinese Expert Linking Code] (./Adversarial Fine-tuning in News/expert_linking_chinese)
+[Chinese Expert Linking Code](./Adversarial Fine-tuning in News/expert_linking_chinese)
 
 
 ## Requirements
